@@ -43,5 +43,5 @@ Let’s connect to transform your complex models into robust, user-ready digital
 ---
 
 ### 📬 How to Reach Me
-* **LinkedIn:** [https://www.linkedin.com/in/faz-ee/]
-* **Email:** [mfarazamir7@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/faz-ee/
+* **Email:** mfarazamir7@gmail.com
